@@ -1,0 +1,31 @@
+{
+  "name": "node-sec",
+  "description": "Add more security to Node.js.",
+  "version": "0.1",
+  "homepage": "https://github.com/meshuga/node-sec/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/meshuga/node-sec.git"
+  },
+  "keywords": [
+    "express",
+    "csp",
+    "cors",
+    "security",
+    "middleware"
+  ],
+  "author": {
+    "name": "Patryk Orwat",
+    "email": "meshuga27@gmail.com"
+  },
+  "main": "./lib/middleware.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "devDependencies": {
+    "express": "3.0.x"
+  }
+}

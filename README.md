@@ -1,4 +1,8 @@
-node-sed
-========
+node-sec
+===============
 
-Add more security to Node.js.
+Middleware for express which adds some security addons.
+
+## License
+
+[MIT License](http://www.opensource.org/licenses/mit-license.php)
