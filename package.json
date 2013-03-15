@@ -1,7 +1,7 @@
 {
   "name": "node-sec",
   "description": "Add more security to Node.js.",
-  "version": "0.1",
+  "version": "0.0.1",
   "homepage": "https://github.com/meshuga/node-sec/",
   "repository": {
     "type": "git",
