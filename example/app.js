@@ -7,7 +7,7 @@ var express = require('express')
 var app = express();
 var logger = express.logger('dev');
 
-require('../lib/node-sec')(app,{
+require('node-sec')(app,{
     csp:{
       script: ['https://ajax.googleapis.com', 'https://platform.twitter.com', "'unsafe-inline'"],
       style: ["'unsafe-inline'"],
