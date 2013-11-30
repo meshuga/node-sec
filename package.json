@@ -18,7 +18,7 @@
     "name": "Patryk Orwat",
     "email": "meshuga27@gmail.com"
   },
-  "main": "./lib/middleware.js",
+  "main": "./lib/node-sec.js",
   "directories": {
     "lib": "lib"
   },
